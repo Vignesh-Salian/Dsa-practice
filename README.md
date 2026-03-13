@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA%20Journey&fontSize=60&fontAlignY=40&desc=Mastering%20Data%20Structures%20%26%20Algorithms&descAlignY=65&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA%20Journey&fontSize=60&fontAlignY=40&desc=Mastering%20Data%20Structures%20and%20Algorithms&descAlignY=65&descAlign=62" width="100%" />
 
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="50" height="50" />
