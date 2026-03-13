@@ -92,6 +92,22 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 
 ---
 
+## 🤖 Automation & Points Tracker
+This repository uses a Python-based automation script to update the progress log and XP points automatically.
+
+### **How to add a new solution:**
+1. Create a new `.py` file (e.g., `01-Arrays-and-Hashing/0001-Two-Sum.py`).
+2. Add the following **metadata header** at the very top of your file:
+```python
+# Difficulty: Medium
+# Topic: Sliding Window
+# Problem: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+```
+3. Commit and push your changes.
+4. The **GitHub Action** will automatically trigger, calculate your XP, and update the table in this `README.md`!
+
+---
+
 ## 📂 Repository Architecture
 
 For maximum readability, everything is sorted numerically by category:
