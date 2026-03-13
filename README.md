@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="#-about">About</a> •
-  <a href="#-reward-system">Reward System</a> •
-  <a href="#-data-structures--patterns">Topics</a> •
+  <a href="#-metrics--milestones">Metrics</a> •
+  <a href="#-core-topics--patterns">Topics</a> •
   <a href="#-daily-progress-log">Progress Log</a>
 </p>
 
@@ -25,20 +25,23 @@ This repository documents my daily journey in mastering Data Structures and Algo
 
 All solutions inside this repository will include clean code, time/space complexity analysis, and approach explanations.
 
-## 🏆 Reward System (Gamification)
-To maintain consistency and momentum, I track my progress using a gamified reward system based on problem difficulty and streaks.
+## 🏆 Metrics & Milestones
+To maintain consistency, I measure my weekly progress through a metric-based system derived from algorithmic difficulty.
 
-| Difficulty / Milestone | Reward Earned | Description |
+| Difficulty | Points | Objective |
 | :--- | :---: | :--- |
-| **🟢 Easy Problem** | 🌟 | 1 Star |
-| **🟡 Medium Problem**| 🌟🌟🌟 | 3 Stars |
-| **🔴 Hard Problem** | 🌟🌟🌟🌟🌟 | 5 Stars |
-| **🔥 7-Day Streak** | 🏅 | **Weekly Champion Badge** |
-| **🚀 30-Day Streak** | 👑 | **Consistency King/Queen Badge** |
+| **🟢 Easy Problem** | `+10 pts` | Solidifying conceptual fundamentals. |
+| **🟡 Medium Problem**| `+30 pts` | Pattern recognition and efficient implementation. |
+| **🔴 Hard Problem** | `+50 pts` | Optimal time/space optimization and complex architectures. |
+
+**Consistency Milestones:**
+- `Level 1`: 7 Consecutive Days (Discipline Established)
+- `Level 2`: 30 Consecutive Days (Habit Formed)
+- `Level 3`: 100 Consecutive Days (Advanced Proficiency)
 
 ---
 
-## 🧠 Data Structures & Patterns
+## 🧠 Core Topics & Patterns
 Focusing on algorithmic patterns is the most efficient way to master DSA. I've categorized my practice into these core pillars:
 
 <details>
@@ -70,10 +73,10 @@ Focusing on algorithmic patterns is the most efficient way to master DSA. I've c
 
 ## 📅 Daily Progress Log
 
-| Day | Date | Problem | Difficulty | Topic / Pattern | Status | Reward |
+| Day | Date | Problem | Difficulty | Topic / Pattern | Status | Points |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|
-| **1** | `YYYY-MM-DD` | [0001. Two Sum](./Arrays/0001-Two-Sum.py) | 🟢 | Arrays / Hash Map | ✅ | 🌟 |
-| **2** | `YYYY-MM-DD` | [0003. Longest Substring Without Repeating Characters](./Strings/0003-Longest-Substring.py) | 🟡 | Sliding Window | ✅ | 🌟🌟🌟 |
+| **1** | `YYYY-MM-DD` | [0001. Two Sum](./Arrays/0001-Two-Sum.py) | 🟢 | Arrays / Hash Map | ✅ | `+10 pts` |
+| **2** | `YYYY-MM-DD` | [0003. Longest Substring Without Repeating Characters](./Strings/0003-Longest-Substring.py) | 🟡 | Sliding Window | ✅ | `+30 pts` |
 | ... | ... | ... | ... | ... | ... | ... |
 
 > **Note:** I will be adding new problems to this table daily to track my consistency!
@@ -102,10 +105,30 @@ The folder structure is kept modular and clean, grouping problems primarily by T
    git clone https://github.com/Vignesh-Salian/Dsa-practice.git
    ```
 2. Navigate to the specific topic/pattern category.
-3. Every solution file contains the original problem statement details and the optimized approach.
+3. Every solution file contains the original problem statement details and the optimal approach.
 
 ---
+
 <div align="center">
-  <p><i>"The successful warrior is the average man, with laser-like focus." — Bruce Lee</i></p>
+  <h3 id="daily-quote">⚡ Daily Motivation</h3>
+  <blockquote id="quote-text">
+    <i>"The successful warrior is the average man, with laser-like focus." — Bruce Lee</i>
+  </blockquote>
   <p>Maintained with ❤️ & ☕ by <b>Vignesh Salian</b></p>
 </div>
+
+<!-- This script automatically updates the quote on GitHub using standard Markdown injection if possible, but is represented here as a placeholder for a GitHub Action or manual rotation -->
+<script>
+  const quotes = [
+    "\"The successful warrior is the average man, with laser-like focus.\" — Bruce Lee",
+    "\"First, solve the problem. Then, write the code.\" – John Johnson",
+    "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\" – Martin Fowler",
+    "\"Experience is the name everyone gives to their mistakes.\" – Oscar Wilde",
+    "\"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.\" – Dan Salomon",
+    "\"It's not a bug. It's an undocumented feature!\" – Anonymous"
+  ];
+  try {
+    const today = new Date().getDay();
+    document.getElementById("quote-text").innerHTML = "<i>" + quotes[today % quotes.length] + "</i>";
+  } catch (e) {}
+</script>
