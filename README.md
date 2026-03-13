@@ -1,121 +1,120 @@
 <div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA%20Journey&fontSize=50&desc=Mastering%20Data%20Structures%20%26%20Algorithms&descAlignY=70&descAlign=62" width="100%" />
+
+<br>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/leetcode.svg" alt="LeetCode Logo" width="60" height="60" />
 
-# 🚀 Daily DSA Problem Solving Tracker
-
-### <i>Mastering Data Structures & Algorithms — One problem at a time.</i>
+### 🚀 Consistent Problem Solving & Pattern Recognition
 
 <p align="center">
-  <a href="#-about">About</a> •
-  <a href="#-metrics--milestones">Metrics</a> •
-  <a href="#-core-topics--patterns">Topics</a> •
-  <a href="#-daily-progress-log">Progress Log</a>
+    <img src="https://img.shields.io/badge/Language-Python%20/%20C++%20/%20Java-blue?style=for-the-badge&logo=code" alt="Language">
+    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
+    <img src="https://img.shields.io/badge/Goal-Consistency-FF9900?style=for-the-badge" alt="Goal">
 </p>
-
-[![LeetCode Stats](https://img.shields.io/badge/LeetCode-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![Consistency Status](https://img.shields.io/badge/Consistency-Active-brightgreen?style=for-the-badge&logo=github)](#)
 
 </div>
 
 ---
 
-## 📖 About
-This repository documents my daily journey in mastering Data Structures and Algorithms (DSA) primarily structured around LeetCode problems. The goal is purely consistent, deliberate practice focused on identifying **structural patterns** rather than just memorizing solutions. 
+## 🎯 The Mission
+This repository is a comprehensive log of my daily journey to mastering Data Structures and Algorithms. The focus is to **learn by patterns** rather than blindly grinding problems. By grouping concepts, the aim is to build a rock-solid foundation for technical interviews and competitive programming.
 
-All solutions inside this repository will include clean code, time/space complexity analysis, and approach explanations.
+Each solution in this tracker includes:
+- ✅ Clean, heavily-commented code.
+- ⏱️ Optimal Time and Space Complexity Analysis.
+- 🧠 Approach and intuition breakdown.
 
-## 🏆 Metrics & Milestones
-To maintain consistency, I measure my weekly progress through a metric-based system derived from algorithmic difficulty.
+---
 
-| Difficulty | Points | Objective |
+## ❤️‍🔥 The Motivation System (Gamification)
+To maintain long-term discipline, I use a point-based XP system based on problem difficulty and consistency streaks. Treating it like an RPG makes daily practice incredibly rewarding.
+
+<div align="center">
+
+| 🧩 Problem Difficulty | 🏆 Points Earned | 🎯 Main Objective |
 | :--- | :---: | :--- |
-| **🟢 Easy Problem** | `+10 pts` | Solidifying conceptual fundamentals. |
-| **🟡 Medium Problem**| `+30 pts` | Pattern recognition and efficient implementation. |
-| **🔴 Hard Problem** | `+50 pts` | Optimal time/space optimization and complex architectures. |
+| <img src="https://img.shields.io/badge/-Easy-00b8a3?style=flat-square&logo=git&logoColor=white" width="70"> | **+10 XP** | Syntax, core concepts, and edge cases. |
+| <img src="https://img.shields.io/badge/-Medium-ffc01e?style=flat-square&logo=git&logoColor=white" width="70"> | **+30 XP** | Pattern recognition and optimal structures. |
+| <img src="https://img.shields.io/badge/-Hard-ff375f?style=flat-square&logo=git&logoColor=white" width="70"> | **+50 XP** | Complex logic and strict space/time bounds. |
 
-**Consistency Milestones:**
-- `Level 1`: 7 Consecutive Days (Discipline Established)
-- `Level 2`: 30 Consecutive Days (Habit Formed)
-- `Level 3`: 100 Consecutive Days (Advanced Proficiency)
+<br>
 
----
+**🔥 Consistency Milestones:** 
+`[Level 1: 7 Days]` ➡️ `[Level 2: 30 Days]` ➡️ `[Level 3: 100 Days]`
 
-## 🧠 Core Topics & Patterns
-Focusing on algorithmic patterns is the most efficient way to master DSA. I've categorized my practice into these core pillars:
-
-<details>
-<summary><b>🛠️ Core Data Structures</b> (Click to expand)</summary>
-
-- `Arrays` & `Hashing`
-- `Strings`
-- `Linked Lists`
-- `Stacks` & `Queues`
-- `Trees` & `Graphs`
-- `Heaps` / `Priority Queues`
-- `Tries`
-</details>
-
-<details>
-<summary><b>🧩 Algorithmic Patterns</b> (Click to expand)</summary>
-
-- 🏃‍♂️ `Two Pointers`
-- 🪟 `Sliding Window`
-- 🗺️ `Fast & Slow Pointers`
-- 🔍 `Binary Search`
-- 🌳 `Depth-First Search (DFS)` & `Breadth-First Search (BFS)`
-- ⏪ `Backtracking`
-- 🔢 `Dynamic Programming (1D & 2D)`
-- 🏗️ `Greedy Algorithms`
-</details>
+</div>
 
 ---
 
-## 📅 Daily Progress Log
+## 📚 Core Topics & Algorithms
+The problems are strictly grouped by underlying concepts to ensure structured, compounding learning.
 
-| Day | Date | Problem | Difficulty | Topic / Pattern | Status | Points |
-|:---:|:---:|:---|:---:|:---:|:---:|:---:|
-| **1** | `YYYY-MM-DD` | [0001. Two Sum](./Arrays/0001-Two-Sum.py) | 🟢 | Arrays / Hash Map | ✅ | `+10 pts` |
-| **2** | `YYYY-MM-DD` | [0003. Longest Substring Without Repeating Characters](./Strings/0003-Longest-Substring.py) | 🟡 | Sliding Window | ✅ | `+30 pts` |
-| ... | ... | ... | ... | ... | ... | ... |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> **Note:** I will be adding new problems to this table daily to track my consistency!
+### 🧱 Data Structures
+- 📦 **Arrays & Hashing**
+- 🔗 **Linked Lists**
+- 📚 **Stacks & Queues**
+- 🌳 **Trees & Graphs**
+- ⛰️ **Heaps / Priority Queues**
+- 🔤 **Tries**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Algorithmic Patterns
+- 🏃‍♂️ **Two Pointers**
+- 🪟 **Sliding Window**
+- 🔎 **Binary Search**
+- 🕰️ **DFS & BFS Traversal**
+- ⏪ **Backtracking**
+- 🔢 **Dynamic Programming** (1D & 2D)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Repository Structure
+## 📅 Daily Problem Log (Recent)
+*(Detailed tracking of my daily solutions, categorized by their core pattern)*
 
-The folder structure is kept modular and clean, grouping problems primarily by Topic or Pattern:
+| Day | Date | Problem Card | Diff | Topic / Pattern | Code | Status | XP |
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|
+| **1** | `YYYY-MM-DD` | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 | Arrays / Hash Map | [`Solution`](./01-Arrays-and-Hashing/0001-Two-Sum.py) | ✅ | `+10` |
+| **2** | `YYYY-MM-DD` | [3. Longest Substring...](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 | Sliding Window | [`Solution`](./03-Sliding-Window/0003-Longest-Substring.py) | ✅ | `+30` |
 
-```text
+<br>
+
+---
+
+## 📂 Repository Architecture
+
+For maximum readability, everything is sorted numerically by category:
+
+```bash
 📦 Dsa-practice
- ┣ 📂 Arrays
+ ┣ 📂 01-Arrays-and-Hashing
  ┃ ┣ 📜 0001-Two-Sum.py
  ┃ ┗ 📜 0217-Contains-Duplicate.py
- ┣ 📂 SlidingWindow
+ ┣ 📂 02-Two-Pointers
+ ┃ ┗ 📜 0125-Valid-Palindrome.py
+ ┣ 📂 03-Sliding-Window
  ┃ ┗ 📜 0121-Best-Time-to-Buy-and-Sell-Stock.py
- ┣ 📂 BinarySearch
- ┃ ┗ 📜 0704-Binary-Search.py
  ┗ 📜 README.md
 ```
 
-## 🚀 How to Navigate
-1. Clone the repository locally if required:
-   ```bash
-   git clone https://github.com/Vignesh-Salian/Dsa-practice.git
-   ```
-2. Navigate to the specific topic/pattern category.
-3. Every solution file contains the original problem statement details and the optimal approach.
-
----
+<br>
 
 <div align="center">
-  <h3 id="daily-quote">⚡ Daily Motivation</h3>
-
-  <a href="https://github.com/Vignesh-Salian/Dsa-practice">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=F7F7F7&center=true&vCenter=true&width=800&lines=The+successful+warrior+is+the+average+man,+with+laser-like+focus.;First,+solve+the+problem.+Then,+write+the+code.;Experience+is+the+name+everyone+gives+to+their+mistakes.;Consistent+action+creates+consistent+results!" alt="Typing SVG" />
-  </a>
-  <br/>
+  <!-- Dynamic Motivational Typing Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=3399FF&center=true&vCenter=true&width=800&lines=The+successful+warrior+is+the+average+man,+with+laser-like+focus.;First,+solve+the+problem.+Then,+write+the+code.;Experience+is+the+name+everyone+gives+to+their+mistakes.;Consistent+action+creates+consistent+results!" alt="Motivation SVG" />
   
-  <p>Maintained with ❤️ & ☕ by <b>Vignesh Salian</b></p>
+  <br><br>
+  <h3>Author</h3>
+  <p><b>Vignesh Salian</b> | <a href="https://github.com/Vignesh-Salian">GitHub Profile</a></p>
 </div>
