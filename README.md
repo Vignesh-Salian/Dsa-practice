@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA%20Journey&fontSize=50&desc=Mastering%20Data%20Structures%20%26%20Algorithms&descAlignY=70&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DSA%20Journey&fontSize=60&fontAlignY=40&desc=Mastering%20Data%20Structures%20%26%20Algorithms&descAlignY=65&descAlign=62" width="100%" />
 
 <br>
-<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/leetcode.svg" alt="LeetCode Logo" width="60" height="60" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="50" height="50" />
 
 ### 🚀 Consistent Problem Solving & Pattern Recognition
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Language-Python%20/%20C++%20/%20Java-blue?style=for-the-badge&logo=code" alt="Language">
+    <img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python&logoColor=white" alt="Language">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
     <img src="https://img.shields.io/badge/Goal-Consistency-FF9900?style=for-the-badge" alt="Goal">
 </p>
