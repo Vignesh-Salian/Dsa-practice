@@ -112,6 +112,12 @@ def update_readme():
     
     # No need to manually update Level markers for now as they are static milestones
     
+    # 2. Update Progress Badge
+    # Look for the Solved badge and update its count
+    badge_pattern = r"https://img\.shields\.io/badge/Solved-\d+%20%2F%20\d+-brightgreen\?style=for-the-badge&logo=leetcode"
+    new_badge = f"https://img.shields.io/badge/Solved-{len(solutions)}%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode"
+    updated_content = re.sub(badge_pattern, new_badge, updated_content)
+    
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write(updated_content)
         
