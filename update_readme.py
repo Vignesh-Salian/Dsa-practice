@@ -102,11 +102,13 @@ def update_readme():
     table_header = "| Day | Date | Problem Card | Diff | Topic / Pattern | Code | Status | XP |"
     table_separator = "|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|"
     
-    pattern = rf"{re.escape(table_start_marker)}.*?\n\n(.*?)\n\n"
-    new_table_section = f"{table_start_marker}\n\n{table_header}\n{table_separator}\n{table_content}\n\n"
+    # Construct the new table section
+    new_table_section = f"{table_start_marker}\n*(Detailed tracking of my daily solutions, categorized by their core pattern)*\n\n{table_header}\n{table_separator}\n{table_content}\n"
     
-    # Use re.DOTALL to match across multiple lines
-    updated_content = re.sub(rf"{re.escape(table_start_marker)}.*?(?=\n\n---|\n\n##|\Z)", new_table_section, readme_content, flags=re.DOTALL)
+    # Replace the section between the marker and the next horizontal rule or header
+    # We use a non-greedy match that stops at the next --- or ##
+    pattern = rf"{re.escape(table_start_marker)}.*?(?=\n---|\n##|\Z)"
+    updated_content = re.sub(pattern, new_table_section, readme_content, flags=re.DOTALL)
     
     # No need to manually update Level markers for now as they are static milestones
     
