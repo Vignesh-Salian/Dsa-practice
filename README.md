@@ -111,24 +111,11 @@ The folder structure is kept modular and clean, grouping problems primarily by T
 
 <div align="center">
   <h3 id="daily-quote">⚡ Daily Motivation</h3>
-  <blockquote id="quote-text">
-    <i>"The successful warrior is the average man, with laser-like focus." — Bruce Lee</i>
-  </blockquote>
+
+  <a href="https://github.com/Vignesh-Salian/Dsa-practice">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=3000&color=F7F7F7&center=true&vCenter=true&width=800&lines=The+successful+warrior+is+the+average+man,+with+laser-like+focus.;First,+solve+the+problem.+Then,+write+the+code.;Experience+is+the+name+everyone+gives+to+their+mistakes.;Consistent+action+creates+consistent+results!" alt="Typing SVG" />
+  </a>
+  <br/>
+  
   <p>Maintained with ❤️ & ☕ by <b>Vignesh Salian</b></p>
 </div>
-
-<!-- This script automatically updates the quote on GitHub using standard Markdown injection if possible, but is represented here as a placeholder for a GitHub Action or manual rotation -->
-<script>
-  const quotes = [
-    "\"The successful warrior is the average man, with laser-like focus.\" — Bruce Lee",
-    "\"First, solve the problem. Then, write the code.\" – John Johnson",
-    "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\" – Martin Fowler",
-    "\"Experience is the name everyone gives to their mistakes.\" – Oscar Wilde",
-    "\"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.\" – Dan Salomon",
-    "\"It's not a bug. It's an undocumented feature!\" – Anonymous"
-  ];
-  try {
-    const today = new Date().getDay();
-    document.getElementById("quote-text").innerHTML = "<i>" + quotes[today % quotes.length] + "</i>";
-  } catch (e) {}
-</script>
