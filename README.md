@@ -81,11 +81,10 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 ---
 
 ## 📅 Daily Problem Log (Recent)
+*(Detailed tracking of my daily solutions, categorized by their core pattern)*
 
 | Day | Date | Problem Card | Diff | Topic / Pattern | Code | Status | XP |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|
-| **1** | `2026-03-13` | [test_problem.py](https://leetcode.com/problems/contains-duplicate/) | 🟢 | Arrays | [`Solution`](01-Arrays-and-Hashing/test_problem.py) | ✅ | `+10` |
-
 
 
 ---
