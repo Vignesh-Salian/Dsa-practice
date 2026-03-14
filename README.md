@@ -57,7 +57,7 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 <td width="50%" valign="top">
 
 ### 🧱 Data Structures
-- 📦 **Arrays & Hashing**
+- 📦 **Arrays**
 - 🔗 **Linked Lists**
 - 📚 **Stacks & Queues**
 - 🌳 **Trees & Graphs**
@@ -86,8 +86,8 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 
 | Day | Date | Problem Card | Diff | Topic / Pattern | Code | Status | XP |
 |:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|
-| **1** | `2026-03-14` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | 🟡 | Kaden's Algorithm | [`Solution`](01-Arrays-and-Hashing/0053-Maximum-Subarray.py) | ✅ | `+30` |
-| **2** | `2026-03-14` | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | 🟢 | Hash map | [`Solution`](01-Arrays-and-Hashing/0217-Contains-Duplicate.py) | ✅ | `+10` |
+| **1** | `2026-03-14` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | 🟡 | Kaden's Algorithm | [`Solution`](01-Arrays/0053-Maximum-Subarray.py) | ✅ | `+30` |
+| **2** | `2026-03-14` | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | 🟢 | Hash map | [`Solution`](01-Arrays/0217-Contains-Duplicate.py) | ✅ | `+10` |
 
 ---
 
@@ -113,7 +113,7 @@ For maximum readability, everything is sorted numerically by category:
 
 ```bash
 📦 Dsa-practice
- ┣ 📂 01-Arrays-and-Hashing
+ ┣ 📂 01-Arrays
  ┃ ┣ 📜 0001-Two-Sum.py
  ┃ ┗ 📜 0217-Contains-Duplicate.py
  ┣ 📂 02-Two-Pointers
