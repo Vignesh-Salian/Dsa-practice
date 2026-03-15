@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python&logoColor=white" alt="Language">
-    <img src="https://img.shields.io/badge/Solved-3%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
+    <img src="https://img.shields.io/badge/Solved-4%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
     <img src="https://img.shields.io/badge/Goal-Consistency-FF9900?style=for-the-badge" alt="Goal">
 </p>
@@ -89,6 +89,7 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 | **1** | `2026-03-14` | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | 🟡 | Kaden's Algorithm | [`Solution`](01-Arrays/0053-Maximum-Subarray.py) | ✅ | `+30` |
 | **2** | `2026-03-14` | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | 🟢 | Hash map | [`Solution`](01-Arrays/0217-Contains-Duplicate.py) | ✅ | `+10` |
 | **3** | `2026-03-15` | [Two Sum](https://leetcode.com/problems/two-sum) | 🟢 | Hash map | [`Solution`](01-Arrays/0001-Two-Sum.py) | ✅ | `+10` |
+| **4** | `2026-03-15` | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | 🟡 | Two pointers | [`Solution`](01-Arrays/0167-Two-Sum-II.py) | ✅ | `+30` |
 
 ---
 
