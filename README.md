@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python&logoColor=white" alt="Language">
-    <img src="https://img.shields.io/badge/Solved-6%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
+    <img src="https://img.shields.io/badge/Solved-7%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
     <img src="https://img.shields.io/badge/Goal-Consistency-FF9900?style=for-the-badge" alt="Goal">
 </p>
@@ -92,6 +92,7 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 | **4** | `2026-03-15` | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | 🟡 | Two pointers | [`Solution`](01-Arrays/0167-Two-Sum-II.py) | ✅ | `+30` |
 | **5** | `2026-03-16` | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | 🟢 | Two pointers | [`Solution`](01-Arrays/0026-Remove-Duplicates-from-Sorted-Array.py) | ✅ | `+10` |
 | **6** | `2026-03-16` | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | 🟡 | Sliding Window | [`Solution`](01-Arrays/1004-Max-Consecutive-Ones-III.py) | ✅ | `+30` |
+| **7** | `2026-03-17` | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | 🟡 | Two pointers | [`Solution`](01-Arrays/0011-Container-With-Most-Water.py) | ✅ | `+30` |
 
 ---
 
