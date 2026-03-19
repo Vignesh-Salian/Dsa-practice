@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python&logoColor=white" alt="Language">
-    <img src="https://img.shields.io/badge/Solved-10%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
+    <img src="https://img.shields.io/badge/Solved-11%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
     <img src="https://img.shields.io/badge/Goal-Consistency-FF9900?style=for-the-badge" alt="Goal">
 </p>
@@ -96,6 +96,7 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 | **8** | `2026-03-17` | [3Sum](https://leetcode.com/problems/3sum) | 🟡 | Two pointers | [`Solution`](01-Arrays/0015-3Sum.py) | ✅ | `+30` |
 | **9** | `2026-03-18` | [Missing Number](https://leetcode.com/problems/missing-number) | 🟢 | Mathematical / Arithmetic (Summation) Pattern | [`Solution`](01-Arrays/0268-Missing-Number.py) | ✅ | `+10` |
 | **10** | `2026-03-18` | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | 🟡 | Prefix Sum + Hashmap | [`Solution`](01-Arrays/0560-Subarray-Sum-Equals-K.py) | ✅ | `+30` |
+| **11** | `2026-03-19` | [Contiguous Array](https://leetcode.com/problems/contiguous-array) | 🟡 | Prefix Sum + Hashmap | [`Solution`](01-Arrays/0525-Contiguous-Array.py) | ✅ | `+30` |
 
 ---
 
