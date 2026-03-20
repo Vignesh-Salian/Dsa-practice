@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python&logoColor=white" alt="Language">
-    <img src="https://img.shields.io/badge/Solved-13%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
+    <img src="https://img.shields.io/badge/Solved-14%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
     <img src="https://img.shields.io/badge/Goal-Consistency-FF9900?style=for-the-badge" alt="Goal">
 </p>
@@ -99,6 +99,7 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 | **11** | `2026-03-19` | [Contiguous Array](https://leetcode.com/problems/contiguous-array) | 🟡 | Prefix Sum + Hashmap | [`Solution`](01-Arrays/0525-Contiguous-Array.py) | ✅ | `+30` |
 | **12** | `2026-03-20` | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | 🟡 | prefix sum | [`Solution`](01-Arrays/0253-Meeting-Rooms-II.py) | ✅ | `+30` |
 | **13** | `2026-03-20` | [Largest-Element.py](https://takeuforward.org/plus/dsa/problems/largest-element) | 🟢 | Linear Traversal | [`Solution`](01-Arrays/Largest-Element.py) | ✅ | `+10` |
+| **14** | `2026-03-20` | [Second-Largest-Element.py](https://takeuforward.org/plus/dsa/problems/second-largest-element) | 🟢 | Linear Traversal | [`Solution`](01-Arrays/Second-Largest-Element.py) | ✅ | `+10` |
 
 ---
 
