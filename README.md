@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python&logoColor=white" alt="Language">
-    <img src="https://img.shields.io/badge/Solved-16%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
+    <img src="https://img.shields.io/badge/Solved-17%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
     <img src="https://img.shields.io/badge/Goal-Consistency-FF9900?style=for-the-badge" alt="Goal">
 </p>
@@ -102,6 +102,7 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 | **14** | `2026-03-20` | [Second-Largest-Element.py](https://takeuforward.org/plus/dsa/problems/second-largest-element) | 🟢 | Linear Traversal | [`Solution`](01-Arrays/Second-Largest-Element.py) | ✅ | `+10` |
 | **15** | `2026-03-21` | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | 🟢 | Linear traversal | [`Solution`](01-Arrays/1752-Check-if-Array-Is-Sorted-and-Rotated.py) | ✅ | `+10` |
 | **16** | `2026-03-21` | [Linear-Search.py](https://takeuforward.org/plus/dsa/problems/linear-search) | 🟢 | Linear Traversal | [`Solution`](01-Arrays/Linear-Search.py) | ✅ | `+10` |
+| **17** | `2026-03-22` | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | 🟢 | Greedy + Min Tracking | [`Solution`](01-Arrays/0121-Best-Time-to-Buy-and-Sell-Stock.py) | ✅ | `+10` |
 
 ---
 
