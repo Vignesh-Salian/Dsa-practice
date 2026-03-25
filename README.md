@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Language-Python%203-blue?style=for-the-badge&logo=python&logoColor=white" alt="Language">
-    <img src="https://img.shields.io/badge/Solved-20%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
+    <img src="https://img.shields.io/badge/Solved-21%20%2F%20300-brightgreen?style=for-the-badge&logo=leetcode" alt="Solved">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
     <img src="https://img.shields.io/badge/Goal-Consistency-FF9900?style=for-the-badge" alt="Goal">
 </p>
@@ -106,6 +106,7 @@ The problems are strictly grouped by underlying concepts to ensure structured, c
 | **18** | `2026-03-22` | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | 🟢 | Two pointers | [`Solution`](01-Arrays/0283-Move-Zeroes.py) | ✅ | `+10` |
 | **19** | `2026-03-23` | [Rotate Array](https://leetcode.com/problems/rotate-array) | 🟡 | Reversal Algorithm + Two Pointer | [`Solution`](01-Arrays/0189-Rotate-Array.py) | ✅ | `+30` |
 | **20** | `2026-03-23` | [Left-Rotate-Array-by-K-Places.py](https://takeuforward.org/plus/dsa/problems/left-rotate-array) | 🟡 | Reversal Algorithm + Two Pointer | [`Solution`](01-Arrays/Left-Rotate-Array-by-K-Places.py) | ✅ | `+30` |
+| **21** | `2026-03-25` | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | 🟢 | Digit Extraction Pattern | [`Solution`](01-Arrays/0009-Palindrome-Number.py) | ✅ | `+10` |
 
 ---
 
